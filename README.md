@@ -8,7 +8,7 @@ Este es un sistema desarrollado en Streamlit para la gestión de pacientes en un
 
 ## Requisitos
 
-- Python 3.7+
+- Python 3.9
 - Streamlit
 - SQLite
 
