@@ -1,4 +1,6 @@
 # Este archivo contiene las dependencias necesarias para ejecutar el proyecto.
+python==3.9.0      # Versión del lenguaje de programación base del proyecto.
 streamlit==1.18.0  # Interfaz de usuario interactiva para aplicaciones web.
 pandas==1.5.3      # Biblioteca para manipulación y análisis de datos.
 sqlite3            # Base de datos embebida para almacenar información (normalmente incluida en la distribución estándar de Python).
+
