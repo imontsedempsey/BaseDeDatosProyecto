@@ -123,7 +123,6 @@ Una vez que hayas seguido los pasos de Instalación y hayas ejecutado la aplicac
          Para exportar los datos de pacientes, médicos, citas o fichas médicas, dirígete a la sección correspondiente y haz clic en "Exportar". Los datos se descargarán en formato CSV.
 
       Importar datos:
-
          Para importar datos desde un archivo CSV, dirígete a la opción de "Importar Datos", selecciona el archivo CSV que deseas cargar, y haz clic en "Cargar".
       
 ## Notas
