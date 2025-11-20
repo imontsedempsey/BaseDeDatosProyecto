@@ -1,3 +1,4 @@
-streamlit
-pandas
-sqlite3
+# Este archivo contiene las dependencias necesarias para ejecutar el proyecto.
+streamlit==1.18.0  # Interfaz de usuario interactiva para aplicaciones web.
+pandas==1.5.3      # Biblioteca para manipulación y análisis de datos.
+sqlite3            # Base de datos embebida para almacenar información (normalmente incluida en la distribución estándar de Python).
